@@ -42,6 +42,18 @@ img {
   max-width: 300px;
   padding: 25px;
 }
+img-wire1 {
+  width: 300%;
+  height: 600%;
+}
+img-wire2 {
+  width: 300%;
+  height: 600%;
+}
+img-wire3 {
+  width: 300%;
+  height: 600px;
+}
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
   color: var(--headline-color-on-white);
